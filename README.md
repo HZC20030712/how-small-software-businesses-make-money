@@ -20,6 +20,8 @@ and the playbook live in the full report — [free to preview](https://moneypeel
 
 ## Contents
 
+- [Dataset index](#dataset-index)
+- [What this dataset answers](#what-this-dataset-answers)
 - [Top 100 by MRR](#top-100-by-mrr)
 - [Fastest growing](#fastest-growing)
 - [Recently added](#recently-added)
@@ -27,6 +29,18 @@ and the playbook live in the full report — [free to preview](https://moneypeel
 - [How to read these tables](#how-to-read-these-tables)
 - [FAQ](#faq)
 - [Licence](#licence)
+
+## Dataset index
+
+[Browse the dataset index on MoneyPeel](https://moneypeel.com/library?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings) — the same 738 products, filterable by MRR band, 30-day growth, pricing model and category.
+
+## What this dataset answers
+
+- **How much money do small software businesses make?** One row per product, with MRR published as a band (`< $1K`, `$1K–10K`, `$10K–100K`, `≥ $100K`) so the row stays true after the exact figure moves.
+- **Which products are growing, and which are shrinking?** The 30-day trend mark sits on every row; the full report shows the channels and plays behind it.
+- **What pricing model do small SaaS and AI products use?** Subscription, usage-based, marketplace, service, freemium, one-time or mixed — one column, one row per product.
+- **Which categories earn the most?** The category files below list their products with the same bands.
+- **Where is the full teardown?** [MoneyPeel](https://moneypeel.com/library?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings) — one page per product, with the revenue evidence and its date.
 
 ## Top 100 by MRR
 
@@ -287,14 +301,15 @@ No MRR is reported for that product. It may still have revenue — check the rep
 
 **Can I use this commercially?**
 Yes. CC BY 4.0: use it, remix it, ship it, credit MoneyPeel and link back to
-https://moneypeel.com. See [LICENSE](LICENSE).
+[moneypeel.com/library](https://moneypeel.com/library?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings). See [LICENSE](LICENSE).
 
 **Can an AI assistant read it directly?**
 Yes — over MCP: [https://github.com/HZC20030712/moneypeel-mcp](https://github.com/HZC20030712/moneypeel-mcp). OAuth, no API key.
 
 ## Licence
 
-Data: **CC BY 4.0** — credit "MoneyPeel" and link back to https://moneypeel.com. See
+Data: **CC BY 4.0** — credit "MoneyPeel" and link back to
+[moneypeel.com/library](https://moneypeel.com/library?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings). See
 [LICENSE](LICENSE). The generator that produced this repository is not part of it.
 Product names and logos belong to their respective owners and appear here for
 identification only.

@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "How small software businesses make money"
+type: dataset
+authors:
+  - name: "MoneyPeel"
+    website: "https://moneypeel.com/library"
+repository-code: "https://github.com/HZC20030712/how-small-software-businesses-make-money"
+url: "https://moneypeel.com/library"
+license: "CC-BY-4.0"
+version: "2026-11-16"
+date-released: "2026-11-17"
+abstract: >-
+  An open, weekly-updated snapshot of MoneyPeel's small-software-business
+  dataset: one row per product with its MRR band, 30-day revenue trend, pricing
+  model, category and a one-line summary. Bands only, never point values; every
+  full report carries the revenue evidence and the date it belongs to. Data is
+  published under CC BY 4.0.
+keywords:
+  - startup revenue
+  - SaaS revenue
+  - MRR
+  - startup growth
+  - micro-SaaS
+  - indie hackers
+  - small software business
+  - open dataset
+  - business models

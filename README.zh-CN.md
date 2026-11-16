@@ -18,6 +18,8 @@
 
 ## 目录
 
+- [数据集索引](#数据集索引)
+- [这份数据能回答什么](#这份数据能回答什么)
 - [MRR 前 100](#mrr-前-100)
 - [增长最快](#增长最快)
 - [最近上架](#最近上架)
@@ -25,6 +27,18 @@
 - [怎么读这些表](#怎么读这些表)
 - [常见问题](#常见问题)
 - [许可](#许可)
+
+## 数据集索引
+
+[在 MoneyPeel 打开数据集索引](https://moneypeel.com/zh/library?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings)——同一批 738 个产品，可按 MRR 区间、30 天增长、收费模式和分类筛选。
+
+## 这份数据能回答什么
+
+- **小型软件生意到底赚多少钱？** 一行一个产品，MRR 以区间发布（`< $1K`、`$1K–10K`、`$10K–100K`、`≥ $100K`），精确数字变了，区间仍然成立。
+- **哪些产品在涨，哪些在跌？** 每行都有 30 天趋势标记；完整报告再给渠道与打法。
+- **小型 SaaS 与 AI 产品怎么收钱？** 订阅、按量、平台与交易、托管服务、免费增值、一次性或混合——一列看完。
+- **哪个分类最赚钱？** 下面的分类文件逐类列出产品与同样的区间。
+- **完整拆解在哪看？**[MoneyPeel](https://moneypeel.com/zh/library?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings)——一个产品一页，带收入证据和日期。
 
 ## MRR 前 100
 
@@ -277,11 +291,11 @@ MoneyPeel 商业报告背后那份数据集的公开周更快照：一行一个�
 那个产品没有报 MRR。它可能仍有收入——去看报告。
 
 **能商用吗？**
-可以。CC BY 4.0：使用、修改、再分发都行，署名 MoneyPeel 并链回 https://moneypeel.com 即可。见 [LICENSE](LICENSE)。
+可以。CC BY 4.0：使用、修改、再分发都行，署名 MoneyPeel 并链回 [moneypeel.com/zh/library](https://moneypeel.com/zh/library?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings) 即可。见 [LICENSE](LICENSE)。
 
 **AI 能直接读吗？**
 能，走 MCP：[https://github.com/HZC20030712/moneypeel-mcp](https://github.com/HZC20030712/moneypeel-mcp)。OAuth，无 API 密钥。
 
 ## 许可
 
-数据：**CC BY 4.0**——署名「MoneyPeel」并链回 https://moneypeel.com。见 [LICENSE](LICENSE)。生成此仓库的脚本不属于本仓库。产品名称与 logo 归各自所有者，此处仅用于识别。
+数据：**CC BY 4.0**——署名「MoneyPeel」并链回 [moneypeel.com/zh/library](https://moneypeel.com/zh/library?utm_source=github&utm_medium=readme&utm_campaign=moneypeel-rankings)。见 [LICENSE](LICENSE)。生成此仓库的脚本不属于本仓库。产品名称与 logo 归各自所有者，此处仅用于识别。
